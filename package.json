@@ -2,7 +2,11 @@
     "name": "node-server",
     "description": "A sample Node.js app using Express 4",
     "dependencies": {
-        "express": "^4.17.3"
+        "console-stamp": "^3.0.4",
+        "express": "^4.17.3",
+        "log-timestamp": "^0.3.0",
+        "log4js": "^6.4.2",
+        "morgan": "^1.10.0"
     },
     "author": "Alessio Bonti",
     "license": "MIT"
